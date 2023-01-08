@@ -3,3 +3,4 @@ rencana content
 - foto dan gambar
 - pemilihan warna dasar
 - pembuatan design
+- mater pengolahan lahan
