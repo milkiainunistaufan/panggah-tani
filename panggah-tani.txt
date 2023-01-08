@@ -4,3 +4,4 @@ Pertanian Tlogorejo
 - membeli hosting sendiri
 - belajar ke yang expert
 - aplikasi dan api dengan laravel
+- jadi portofolio
