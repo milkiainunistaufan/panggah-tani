@@ -1,0 +1,4 @@
+Pertanian Tlogorejo
+- belajar tailwind
+- konsisten membuat web design
+- pemrograman laravel
