@@ -5,3 +5,5 @@ rencana content
 - pembuatan design
 - mater pengolahan lahan
 - mengambil mikro organisme dari tanah asli
+- mikro organisme local
+
