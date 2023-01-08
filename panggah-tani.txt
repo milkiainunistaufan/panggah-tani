@@ -2,3 +2,5 @@ Pertanian Tlogorejo
 - belajar tailwind
 - konsisten membuat web design
 - pemrograman laravel
+- membeli hosting sendiri
+- belajar ke yang expert
